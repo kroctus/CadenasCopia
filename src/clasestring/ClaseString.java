@@ -14,10 +14,8 @@ public class ClaseString {
    
     public static void main(String[] args) {
         
-        //Cambio X
-        
-        String s = "Gabriel_Payano.com";
-       
+        String s = "yo.com";
+        // Hola 
       
         System.out.println("Tamaños: " + s.length());
         
@@ -27,7 +25,7 @@ public class ClaseString {
         // Obtener subcadena desde el caracter i-ésimo hasta el final
         // de la cadena
         String subcadena = s.substring(3);
-        System.out.println("SubString = " + subcadena);
+        System.out.println("Subcadena = " + subcadena);
        
         // Obtener subcadena desde el caracter i-ésimo hasta el 
         // caracter j-ésimo de la cadena
